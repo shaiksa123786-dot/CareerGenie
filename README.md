@@ -1,16 +1,119 @@
-# React + Vite
+# 🚀 CareerGenie-AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+### Your AI-Powered Career Companion
 
-Currently, two official plugins are available:
+> **From Career Confusion to a Clear Path**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+CareerGenie-AI is an AI-powered personalized career guidance platform designed to help students overcome career confusion and information overload.
 
-## React Compiler
+The platform analyzes a student's interests, skills, educational background, and career goals to provide personalized career recommendations and structured learning roadmaps.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🎥 Project Demo Video
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Watch our complete project demonstration:
+
+👉 **[Click here to watch the CareerGenie-AI Demo Video]  
+
+https://github.com/user-attachments/assets/ab3bb653-59ba-455d-a992-a37fc9fd6ae5
+
+
+
+
+
+**
+
+<!-- 
+If you have a video file in your GitHub repository, you can also use:
+
+[![CareerGenie-AI Demo](YOUR_THUMBNAIL_IMAGE)](YOUR_VIDEO_LINK)
+
+-->
+
+---
+
+## 📌 Problem Statement
+
+Students today have access to a huge amount of information about careers, courses, colleges, skills, internships, jobs, and competitive exams.
+
+However, the main problem is **information overload**.
+
+Students often struggle to:
+
+- Identify the right career based on their interests and skills
+- Find the right courses
+- Understand which skills they need to learn
+- Create a structured learning path
+- Find relevant opportunities
+- Make confident career decisions
+
+Students often have to search across multiple platforms, which can lead to confusion, poor decisions, and wasted time.
+
+---
+
+## 💡 Our Solution
+
+CareerGenie-AI acts as an **AI-powered virtual career companion** for students.
+
+The platform analyzes:
+
+- 🎓 Educational background
+- 💡 Interests
+- 🛠️ Skills
+- 🎯 Career goals
+
+Based on this information, CareerGenie-AI provides:
+
+- Personalized career recommendations
+- Skill gap analysis
+- Personalized learning roadmaps
+- Course recommendations
+- Competitive exam guidance
+- Alternative career paths
+- Internship and job opportunities
+- Resume and interview preparation support
+
+Our goal is to transform:
+
+> **Career Confusion → Personalized Guidance → Clear Roadmap → Career Readiness**
+
+---
+
+## ✨ Key Features
+
+### 🤖 1. AI Career Mentor
+
+Students can interact with an AI-powered career mentor to ask questions and receive personalized guidance.
+
+### 🎯 2. AI Career Recommendation
+
+The system recommends suitable career options based on the student's:
+
+- Interests
+- Skills
+- Goals
+- Educational background
+
+### 🗺️ 3. Personalized Learning Roadmap
+
+CareerGenie-AI creates a step-by-step learning path based on the student's career goal.
+
+**Example:**
+
+Student Goal: **AI Engineer**
+
+```text
+Python
+   ↓
+Mathematics
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Projects
+   ↓
+Internship
+   ↓
+Interview Preparation
